@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+
+*{
+	margin: 30px;
+	padding: 20px;
+}
+
+.holder{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: lightskyblue;
+	margin-top: 15px;
+	color: blue;
+	font-size: 30px;
+	font-weight: bold;
+}
